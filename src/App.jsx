@@ -3,9 +3,7 @@ import AppRoutes from "./routes/AppRoute"
 
 const App = () => {
   return (
-    <Provider>
       <AppRoutes />
-    </Provider>
   )
 }
 
