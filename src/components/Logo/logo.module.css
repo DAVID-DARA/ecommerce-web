@@ -16,3 +16,10 @@
     .logo_link:active {
         color: black;
     }
+@media (max-width: 768px) {
+    .logo {
+        display: flex;
+        align-items: center;
+        font-family: 'Love Light';
+    }
+}
